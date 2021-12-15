@@ -1,3 +1,8 @@
 body{
     background-color: rgb(235, 201, 90);
 }
+p{
+    color: cadetblue;
+    font-size: 30px;
+    font-weight: 700;
+}
